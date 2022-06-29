@@ -1,0 +1,14 @@
+live presentation
+numpy
+panda
+
+seaborn 
+matplotlib
+
+Aug 27
+
+linalg  linear algebra solving matrix
+
+linechart scatterplot barplot
+
+Determining determinant, inverse, and solving simultaneous equations is enough
